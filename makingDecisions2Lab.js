@@ -1,5 +1,5 @@
 // For problems 1-2 use the following lines of code:
-var arr = [10,20,30,40,50,60]
+var arr = [10, 20, 30, 40, 50, 60]
 
 ////////// PROBLEM 1 //////////
 /*
@@ -7,7 +7,7 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-
+let firstItem = arr[0]
 
 ////////// PROBLEM 2 //////////
 /*
@@ -33,9 +33,9 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 ////////// PROBLEM 4 //////////
 
 // Do not edit the code below.
-var nums = [1,2,3,6,22,98,45,23,22,12];
+var nums = [1, 2, 3, 6, 22, 98, 45, 23, 22, 12];
 let evensArr = []
-// Do not edit the code above.
+    // Do not edit the code above.
 
 /*
   Use a for-loop to iterate through each number in the 'nums' array, if the number is even, append it to the 'evensArr'.
@@ -49,7 +49,7 @@ let evensArr = []
 
 // Do not edit the code below.
 var score = 74
-// Do not edit the code above.
+    // Do not edit the code above.
 
 /*
   Determine if the letter grade of the given variable 'score'. If the variable is a 90 or above, console log an 'A', between 80 and 89, console log a 'B', between 70 and 79, 'C', between 60 and 69, 'D', and anything below 60 should console log an 'F'.
@@ -63,7 +63,7 @@ var score = 74
 ////////// PROBLEM 6 //////////
 
 // Do not edit the code below.
-var myFavoriteNumbers = [4,8,12,16,20,24];
+var myFavoriteNumbers = [4, 8, 12, 16, 20, 24];
 // Do not edit the code above.
 
 /*
@@ -84,7 +84,7 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 ////////// PROBLEM 8 //////////
 
 // Do not edit the code below.
-var listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,12];
+var listOfNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 // Do not edit the code above.
 
 // Use a for-loop to iterate through 'listOfNumbers', checking to see if each number is divisible by 3. If it is, console.log '{number} is divisible by 3.'
@@ -111,7 +111,7 @@ var letters = ['A', 'B', 'C', 'D', 'E'];
 
 // Do not edit the code below.
 let letterGrade = 'B'
-// Do not edit the code above.
+    // Do not edit the code above.
 
 /* Use a switch statement on 'letterGrade' and console.log the appropriate response.
 
